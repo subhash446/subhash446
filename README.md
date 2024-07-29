@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subhash446
-- 👀 I’m interested in learning new things,etc.
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently pursuing B.Tech in IT branch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me subhashyadav25177@gmail.com
