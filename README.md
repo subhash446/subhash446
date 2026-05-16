@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @subhash446
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently pursuing B.Tech in IT branch
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me subhashyadav25177@gmail.com
-- 😄 Pronouns: subhash
-- ⚡ Fun fact: ...
+# Hi, I'm Subhash Kumar Yadav 👋
 
-<!---
-subhash446/subhash446 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- B.Tech Information Technology student at NIET Greater Noida
+- Interested in Software Development and Backend Development
+- Skilled in JavaScript, Node.js, Express.js, MongoDB, and MySQL
+- Building responsive full-stack web applications
+
+## Technical Skills
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express.js
+- Database: MongoDB, MySQL
+- Tools: Git, GitHub, VS Code, Postman
+
+## Projects
+### Job Portal
+Full-stack job portal with authentication and job filtering.
+
+### WhatsApp Chatbot
+Automated chatbot using Node.js and Express.js.
+
+### Student Information System
+Database management system for student records.
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/subhash-yadav-062111266/
+- Email: subhashyadav25177@gmail.com
