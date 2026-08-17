@@ -1,288 +1,64 @@
-<h1 align="center">
-Hi 👋, I'm Subhash Kumar Yadav
-</h1>
-
-<h3 align="center">
-💻 Final Year B.Tech IT Student | Full Stack Web Developer | Software Developer
-</h3>
+<h1 align="center">Hi, I'm Subhash Kumar Yadav 👋</h1>
+<h3 align="center">Full-Stack Developer (JavaScript / Node.js / MySQL) · Final-Year B.Tech IT Student</h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Software+Developer;Final+Year+B.Tech+IT+Student;Node.js+%7C+Express.js+%7C+JavaScript;Always+Learning+New+Technologies"/>
-
+  <a href="https://www.linkedin.com/in/subhash-yadav-062111266"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:subhashyadav25177@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://bellecure.co.in"><img src="https://img.shields.io/badge/Live%20Project-Bellecure-000000?style=for-the-badge"></a>
 </p>
+
+I build and ship full-stack web applications end-to-end — from database schema to deployed product. I shipped **[bellecure.co.in](https://bellecure.co.in)**, a live business website in production, with an AI assistant powered by the Gemini API. Looking for a **Software Engineer / Associate SWE** role where I can keep building real products.
+
+---
+
+### 🚀 Featured Projects
+
+**[Bellecure — Business Website](https://bellecure.co.in)** · `Node.js` `MySQL` `Gemini API`
+Production e-commerce site for a packaged drinking water brand. Built the storefront, integrated an AI product-recommendation & support assistant, and wired up real-time order data via MySQL.
+
+**Business Market Monitoring & Alert Platform** · `Node.js` `Express` `MySQL`
+Dashboard that tracks raw-material prices across locations and fires automated email alerts within minutes of a significant price move — cut manual trend-comparison work for users.
+<!-- 🔗 add repo link here -->
+
+**AI-Powered WhatsApp Chatbot** · `JavaScript` `Gemini API` `REST APIs`
+Multi-turn WhatsApp support bot that maintains conversation context and auto-resolves FAQs, reducing manual support load.
+<!-- 🔗 add repo link here -->
+
+**Job Portal** · `MySQL` `JavaScript`
+Full-stack portal with auth, dynamic filtering by category/location/experience, and a relational schema for jobs, applicants, and applications.
+<!-- 🔗 add repo link here -->
+
+---
+
+### 🛠️ Tech Stack
+
+![](https://skillicons.dev/icons?i=java,js,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,postman,vscode)
+
+---
+
+### 💼 Experience
+
+**Full Stack Developer — Bellecure** · Jan 2026 – Mar 2026
+Built and deployed the brand's official website (HTML/CSS/JS, Node.js, MySQL), integrated the Gemini API for an AI shopping assistant, and designed a mobile-first responsive UI.
+
+---
+
+### 📜 Certifications & Highlights
+
+- Full Stack Development Internship — CodeAlpha
+- Introduction to Cybersecurity — Cisco Networking Academy
+- MongoDB Certification Series (CRUD, Atlas)
+- Led a 5-person team at Smart India Hackathon (SIH)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=subhash446&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=subhash446&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash446&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🚀 About Me
-
-🎓 Final Year B.Tech Information Technology Student at **Noida Institute of Engineering and Technology (NIET), Greater Noida**
-
-💻 Passionate about building scalable web applications and solving real-world software problems.
-
-🌱 Currently Learning
-
-- Advanced Backend Development
-- REST APIs
-- Database Design
-- Software Engineering
-- Data Structures & Algorithms
-
-🎯 Career Goal
-
-To start my career as a Software Development Engineer (SDE) where I can contribute to impactful products while continuously learning and improving my development skills.
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript"/>
-
-</p>
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 📊 Business Market Monitoring & Alert Platform
-
-> HTML • CSS • JavaScript • Node.js • Express.js • MySQL
-
-✔ Historical Market Analysis
-
-✔ Automated Price Alerts
-
-✔ Interactive Dashboard
-
-✔ Trend Prediction
-
-✔ Analytics Reports
-
----
-
-## 🌐 Bellecure Official Website
-
-> HTML • CSS • JavaScript • Node.js
-
-✔ Official Business Website
-
-✔ Responsive Design
-
-✔ Gemini AI Integration
-
-✔ Business Inquiry System
-
-🌐 https://bellecure.co.in
-
----
-
-## 🤖 AI Powered WhatsApp FAQ Chatbot
-
-> JavaScript • REST API • Gemini API
-
-✔ AI FAQ
-
-✔ Real-time Responses
-
-✔ Intelligent Customer Support
-
-✔ Context-aware Chat
-
----
-
-## 💼 Job Portal
-
-> HTML • CSS • JavaScript • MySQL
-
-✔ Authentication
-
-✔ Job Listings
-
-✔ Responsive UI
-
-✔ Database Integration
-
----
-
-# 🏆 Experience
-
-## Full Stack Web Application Developer
-
-### Bellecure
-
-📅 Jan 2026 – Present
-
-- Developed official business website
-- Integrated Gemini AI
-- Responsive UI Development
-- Backend Integration
-- Performance Optimization
-
----
-
-# 📜 Certifications
-
-🏅 Introduction to Cybersecurity — Cisco
-
-🏅 Full Stack Development Internship — CodeAlpha
-
-🏅 MongoDB Certification Series
-
----
-
-# 🏆 Achievements
-
-🥇 Team Leader — Smart India Hackathon
-
-🚀 Developed and deployed Bellecure Official Website
-
-💻 Built multiple Full Stack Projects
-
-🌱 Continuous Learner
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=subhash446&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash446&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=subhash446&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhash446&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=subhash446&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
-
-</p>
-
----
-
-# 📌 Current Focus
-
-🚀 Building Production-Level Full Stack Applications
-
-📚 Data Structures & Algorithms
-
-⚙ Backend Development
-
-🤖 AI Powered Applications
-
-💼 Software Development Engineer (SDE)
-
----
-
-# 🌐 Connect With Me
-
-<p>
-
-<a href="mailto:subhashyadav25177@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="https://linkedin.com/in/subhash-yadav-062111266">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="https://github.com/subhash446">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-```text
-while(alive){
-    Learn();
-    Code();
-    Build();
-    Repeat();
-}
-```
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-</h3>
+<p align="center"><i>Open to Software Engineer / Associate SWE roles — let's connect.</i></p>
