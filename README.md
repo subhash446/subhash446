@@ -52,8 +52,6 @@ A business-focused market-monitoring platform designed to track raw-material pri
 
 [**Live website →**](https://business-market-monitor.pages.dev/) · [**View repository →**](https://github.com/subhash446/business-market-monitor)
 
-> No live-demo URL is listed here because a public deployment link has not been confirmed.
-
 ### 2. [Bellecure Website](https://bellecure.co.in)
 
 A business website for **Bellecure Agro Food & Co.**, a packaged drinking water brand. My resume records my role as **Full-Stack Developer (Volunteer)** from January to March 2026.
@@ -84,8 +82,6 @@ An AI-enabled WhatsApp support assistant that processes incoming messages, gener
 
 [**View repository →**](https://github.com/subhash446/Whatsapp-AI-FAQ-Chatbot)
 
-> The repository documents local development with the Twilio Sandbox; no public production-demo URL is listed here.
-
 ## 🎓 Education
 
 **B.Tech — Information Technology**  
@@ -113,6 +109,7 @@ Noida Institute of Engineering and Technology (NIET), Greater Noida
 - **LinkedIn:** [linkedin.com/in/subhash-kumar-yadav](https://linkedin.com/in/subhash-kumar-yadav)
 - **Email:** [subhashyadav25177@gmail.com](mailto:subhashyadav25177@gmail.com)
 - **GitHub:** [github.com/subhash446](https://github.com/subhash446)
+- **Portfolio:** [https://subhash-dev.pages.dev/](https://subhash-dev.pages.dev/)
 
 ---
 
