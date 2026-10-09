@@ -1,194 +1,123 @@
 <div align="center">
 
-# 👋 Hi, I'm Subhash Kumar Yadav
+# Hi, I'm Subhash Kumar Yadav 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Final-Year+IT+Engineering+Student;Software+Engineer+%7C+Full-Stack+Developer;AI+%26+Automation+Enthusiast;Building+Real-World+Digital+Solutions" />
+**Final-Year B.Tech Information Technology Student · Aspiring Software Engineer**
 
-<p>
-  <a href="https://github.com/subhash446">
-    <img src="https://img.shields.io/github/followers/subhash446?label=Followers&style=for-the-badge&logo=github">
-  </a>
-  <a href="https://github.com/subhash446">
-    <img src="https://komarev.com/ghpvc/?username=subhash446&style=for-the-badge&color=blue">
-  </a>
-</p>
+I build practical web applications, backend APIs, database-backed workflows, and AI-powered assistants. My interests include software development, backend engineering, databases, and Generative AI integrations.
+
+[![GitHub](https://img.shields.io/badge/GitHub-subhash446-181717?logo=github&logoColor=white)](https://github.com/subhash446)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhash-kumar-yadav)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:subhashyadav25177@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **Final-Year B.Tech Information Technology student** at  
-**Noida Institute of Engineering and Technology, Greater Noida**.
+- 🎓 Final-year **B.Tech in Information Technology** student at **Noida Institute of Engineering and Technology (NIET), Greater Noida**.
+- 💻 Interested in building useful software with JavaScript, backend APIs, and SQL/NoSQL databases.
+- 🤖 Have worked on integrating Google Gemini into web applications and a WhatsApp support assistant.
+- 🔐 Familiar with practices such as request validation, JWT authentication, parameterized SQL queries, and environment-based configuration.
+- 🎯 Preparing for entry-level **Software Developer / Software Engineer** opportunities.
 
-I enjoy building practical software products that combine:
+## 🛠️ Technical Skills
 
-- 💻 Full-Stack Web Development
-- 🤖 AI-powered applications
-- 📊 Data-driven platforms
-- 🔌 REST API integrations
-- 🗄️ Database-driven systems
-- ⚡ Automation
+| Category | Technologies |
+|---|---|
+| **Languages** | Java, JavaScript, SQL |
+| **Frontend** | HTML5, CSS3, Tailwind CSS |
+| **Backend & APIs** | Node.js, Express.js, REST APIs, JSON, Webhook integrations |
+| **AI & LLM integration** | Google Gemini API, LLM API integration, prompt engineering |
+| **Databases** | MySQL, MongoDB, Mongoose |
+| **Security practices** | JWT authentication, input validation, parameterized SQL queries, CORS, HTML escaping |
+| **Tools** | Git, GitHub, VS Code, Postman |
 
-Currently looking for opportunities as a **Software Engineer / Associate Software Engineer** where I can build scalable products and solve real-world problems.
+## 🚀 Featured Projects
 
----
+### 1. [Business Market Monitor](https://github.com/subhash446/business-market-monitor)
 
-## 🧠 Tech Stack
-
-### Programming
-<p>
-<img src="https://skillicons.dev/icons?i=java,js" />
-</p>
-
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-### Backend & APIs
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-### AI
-<p>
-
-`Gemini API` • `OpenAI API`
-
-</p>
-
----
-
-## 💼 Featured Projects
-
-### 📈 Business Market Monitoring & Alert Platform
-
-A web-based platform designed to monitor **raw material prices, market trends and industry updates** across multiple locations.
-
-**Key Features**
-- 📊 Interactive market dashboard
-- 📍 Multi-location price tracking
-- 📈 Historical trend analysis
-- 📧 Automated email alerts
-- 📑 Customized reports
-
-**Tech:** HTML • CSS • JavaScript • Node.js • Express.js • MySQL
-
----
-
-### 🤖 AI-Powered WhatsApp Chatbot
-
-An AI-powered customer support chatbot designed to automatically handle FAQs and common customer queries.
-
-**Key Features**
-- 💬 Automated WhatsApp responses
-- 🧠 Gemini-powered contextual replies
-- 🔄 Multi-turn conversation history
-- ⚡ Automated FAQ resolution
-
-**Tech:** JavaScript • REST APIs • Gemini API
-
----
-
-### 💼 Job Portal
-
-A full-stack job portal allowing users to discover relevant opportunities through dynamic search and filtering.
-
-**Key Features**
-- 🔐 User authentication
-- 🔎 Dynamic job search
-- 📍 Location-based filtering
-- 🏷️ Category & experience filtering
-- 🗄️ MySQL database integration
-
-**Tech:** HTML • CSS • JavaScript • MySQL
-
----
-
-### 💧 Bellecure Business Website
-
-Developed and deployed the official business website for **Bellecure**, including responsive interfaces and AI-powered customer assistance.
+A business-focused market-monitoring platform designed to track raw-material prices, preserve price history, and turn configured price conditions into actionable email alerts.
 
 **Highlights**
-- 🌐 Production website
-- 📱 Mobile-first responsive design
-- 🤖 Gemini AI integration
-- 🗄️ MySQL backend integration
+- Track materials and record historical price observations.
+- Configure price-above and price-below alert rules.
+- Evaluate price conditions and create alert events.
+- Send email notifications through SMTP and track delivery status.
+- Review historical price trends and market information through the dashboard.
+- Uses a layered backend with request validation, JWT-based authentication, parameterized SQL queries, and business-level data isolation.
 
-🔗 **Live:** https://bellecure.co.in
+**Tech stack:** JavaScript · Node.js · Express.js · MySQL · JWT · Nodemailer
+
+[**Live website →**](https://business-market-monitor.pages.dev/) · [**View repository →**](https://github.com/subhash446/business-market-monitor)
+
+> No live-demo URL is listed here because a public deployment link has not been confirmed.
+
+### 2. [Bellecure Website](https://bellecure.co.in)
+
+A business website for **Bellecure Agro Food & Co.**, a packaged drinking water brand. My resume records my role as **Full-Stack Developer (Volunteer)** from January to March 2026.
+
+**Highlights**
+- Product showcase for 250 ml, 500 ml, and 1 L bottles.
+- Distributor inquiry workflow with client-side and server-side validation.
+- Google Gemini-powered customer-support assistant designed for English, Hindi, and Hinglish.
+- REST APIs and MongoDB/Mongoose data storage for inquiries and chat interactions.
+- Email notifications, protected admin access, centralized error handling, and CORS configuration.
+
+**Tech stack:** HTML5 · CSS3 · JavaScript · Tailwind CSS · Node.js · Express.js · MongoDB · Mongoose · Google Gemini API
+
+[**Live website →**](https://bellecure.co.in) · [**Source code →**](https://github.com/subhash446/Bellecure-Website)
+
+### 3. [AI-Powered WhatsApp FAQ Assistant](https://github.com/subhash446/Whatsapp-AI-FAQ-Chatbot)
+
+An AI-enabled WhatsApp support assistant that processes incoming messages, generates conversational responses, and stores message data for review.
+
+**Highlights**
+- Twilio WhatsApp Sandbox webhook integration for receiving and responding to messages.
+- Google Gemini integration for AI-generated FAQ responses and conversation context.
+- MongoDB/Mongoose persistence for message and conversation data.
+- React-based admin dashboard with message review and analytics views.
+- Request validation, error handling, and a fallback mode for development when external services are unavailable.
+
+**Tech stack:** Node.js · Express.js · Twilio · Google Gemini API · MongoDB · Mongoose · React
+
+[**View repository →**](https://github.com/subhash446/Whatsapp-AI-FAQ-Chatbot)
+
+> The repository documents local development with the Twilio Sandbox; no public production-demo URL is listed here.
+
+## 🎓 Education
+
+**B.Tech — Information Technology**  
+Noida Institute of Engineering and Technology (NIET), Greater Noida  
+2023–2027
+
+## 🏅 Certifications & Achievements
+
+- **Introduction to Generative AI** — Google Cloud (Simplilearn SkillUP)
+- **Java Programming Fundamentals** — Infosys Springboard
+- **MongoDB Certification Series** — CRUD, Atlas
+- **Introduction to Cybersecurity** — Cisco Networking Academy
+- Led a team of **five students** in Smart India Hackathon (SIH) to design a technology solution for a real-world problem.
+- Solved **200+ DSA problems** across LeetCode and GeeksforGeeks.
+
+## 🌱 Currently Focusing On
+
+- Strengthening Data Structures and Algorithms.
+- Building reliable backend services and REST APIs.
+- Improving database design and software engineering practices.
+- Exploring practical applications of Generative AI and LLM integrations.
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/subhash-kumar-yadav](https://linkedin.com/in/subhash-kumar-yadav)
+- **Email:** [subhashyadav25177@gmail.com](mailto:subhashyadav25177@gmail.com)
+- **GitHub:** [github.com/subhash446](https://github.com/subhash446)
 
 ---
-
-## 🏆 Achievements
-
-- 🥇 Led a team of **5 students** in Smart India Hackathon (SIH)
-- 🚀 Developed and deployed a production business website
-- 🤖 Built AI-powered automation applications
-- 📚 Full Stack Development Internship – CodeAlpha
-- 🔐 Introduction to Cybersecurity – Cisco Networking Academy
-- 🍃 MongoDB Certification Series
-
----
-
-## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subhash446&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash446&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+*Learning continuously · Building practical software · Solving real-world problems*
 
 </div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=subhash446&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhash446&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/subhash446/subhash446/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## 🎯 Currently Focused On
-
-```text
-▸ Strengthening Data Structures & Algorithms
-▸ Building production-ready web applications
-▸ Exploring AI-powered software development
-▸ Improving system design & backend development
-▸ Preparing for Software Engineering opportunities
