@@ -111,7 +111,17 @@ Noida Institute of Engineering and Technology (NIET), Greater Noida
 - **GitHub:** [github.com/subhash446](https://github.com/subhash446)
 - **Portfolio:** [https://subhash-dev.pages.dev/](https://subhash-dev.pages.dev/)
 
----
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+### Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=subhash446&theme=tokyonight&hide_border=true" alt="Subhash's GitHub contribution streak" height="180" />
+
+</div>
+
 
 <div align="center">
 
